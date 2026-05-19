@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/diamond-tears/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Diamond Tears](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/diamond-tears/) |
+| **Get License** | [Obtain a Music License for Diamond Tears](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/diamond-tears/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Kaanch jehe hanju tere dulde zameen te slow
+> Takda main tainu kudiye lagdi ae kalli you know
+> Kaale is hanere vich mukhda tera shines
+> Dil mera marda ae ishq ch hoya blind
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
